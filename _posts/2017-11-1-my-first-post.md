@@ -7,7 +7,7 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_soliloquio]({{ site.baseurl }}/images/soliloquio2.jpg)
 
-... javascript
+... java
 const x = 2;
 const y = 'test';
 ...
